@@ -1,0 +1,5 @@
+Metric,Value
+ARIMA Order,"(1, 1, 1)"
+Test Size,8
+MAE,15.99048414782942
+RMSE,21.285703361482344

@@ -1,0 +1,2 @@
+Data_Start,Data_End,Trading_Days,Starting_Close,Latest_Close,Overall_Return_Pct,Average_Daily_Return_Pct,Annualized_Volatility_Pct,Up_Days,Down_Days,Max_Drawdown_Pct,Regression_MAE,Regression_RMSE,Regression_R2,Classification_Accuracy,Classification_Precision,Classification_Recall,Classification_F1
+2026-03-02,2026-09-01,124,24865.7,24055.8,-3.2570971257595893,-0.02186770867525081,16.0104046943286,60,63,-10.191951161640333,139.93485787379402,164.10299713400423,0.2731092288512933,0.6666666666666666,0.0,0.0,0.0
